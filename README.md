@@ -98,7 +98,7 @@ HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyand
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,ts,js,html,css,tailwind,bootstrap,py,cpp,mysql,postgres,flutter,adonis,git,github,vscode,figma,docker,postman&perline=11&theme=dark" alt="Core Skills & Technologies" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,vue,ts,js,html,css,tailwind,bootstrap,py,cpp,mysql,postgres,supabase,flutter,adonis,git,github,vscode,figma,docker,postman&perline=12&theme=dark" alt="Core Skills & Technologies" />
   </a>
 </p>
 
@@ -115,7 +115,7 @@ HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyand
 
   - **Programming Languages:** Python, JavaScript, TypeScript, C/C++, PHP, Dart
   - **Web & Mobile Frameworks:** Laravel, Filament PHP, AdonisJS, React, Next.js, Vue.js, Flutter, Ionic, HTML5, CSS3, Tailwind CSS, Bootstrap
-  - **Databases & Infrastructure:** MySQL, PostgreSQL, RESTful APIs, Git, GitHub, Docker, Postman
+  - **Databases & Infrastructure:** MySQL, PostgreSQL, Supabase, RESTful APIs, Git, GitHub, Docker, Postman
   - **UI/UX & Multimedia:** Figma, Canva, Adobe After Effects, CapCut, Adobe Lightroom
   - **IT Support & Systems:** Hardware & Software Installation, System Troubleshooting, Network Configuration
   - **Soft Skills:** Leadership, Team Management, Professional Communication, Public Speaking, Negotiation, Problem Solving, Time Management
