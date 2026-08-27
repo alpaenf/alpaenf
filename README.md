@@ -128,7 +128,7 @@ HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyand
 <div align="center">
 
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=alpaenf&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=alpaenf&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&hide_rank=true" alt="GitHub Stats" height="175" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alpaenf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="175" />
   </p>
 
