@@ -109,16 +109,10 @@ Leadership, Team Management, Professional Communication, Public Speaking, Negoti
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alpaenf&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpaenf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=alpaenf&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="175" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alpaenf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="175" />
+  </p>
 
   <br/>
 
