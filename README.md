@@ -91,17 +91,28 @@ HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyand
 
 <hr />
 
-## Skills & Technologies
+## Tech Stack
 
-#### **Technical Skills:**
-- **Programming Languages:** Python, JavaScript, C/C++
-- **Web Development:** HTML, CSS, Laravel, React, Next.js, Vue.js
-- **UI/UX Design:** Figma, Canva
-- **IT Support & Systems:** Hardware & Software Installation, System Troubleshooting, Network Configuration
-- **Tools & Multimedia:** Git, GitHub, Microsoft Office, Google Workspace, Adobe After Effects, CapCut, KineMaster, Adobe Lightroom
+### Core Skills & Technologies
 
-#### **Soft Skills:**
-Leadership, Team Management, Professional Communication, Public Speaking, Negotiation, Complex Problem Solving, Time Management, Team Collaboration.
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,ts,js,html,css,tailwind,bootstrap,py,cpp,mysql,postgres,git,github,vscode,figma,docker,postman&perline=12&theme=dark" alt="Core Skills & Technologies" />
+  </a>
+</p>
+
+<details>
+  <summary><b>Tech Stack Details</b></summary>
+  <br/>
+
+  - **Programming Languages:** Python, JavaScript, TypeScript, C/C++, PHP
+  - **Web Development:** Laravel, React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+  - **Databases & Infrastructure:** MySQL, PostgreSQL, RESTful APIs, Git, GitHub, Docker, Postman
+  - **UI/UX & Multimedia:** Figma, Canva, Adobe After Effects, CapCut, Adobe Lightroom
+  - **IT Support & Systems:** Hardware & Software Installation, System Troubleshooting, Network Configuration
+  - **Soft Skills:** Leadership, Team Management, Professional Communication, Public Speaking, Negotiation, Problem Solving, Time Management
+
+</details>
 
 <hr />
 
