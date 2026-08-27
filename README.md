@@ -97,16 +97,23 @@ HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyand
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,ts,js,html,css,tailwind,bootstrap,py,cpp,mysql,postgres,git,github,vscode,figma,docker,postman&perline=12&theme=dark" alt="Core Skills & Technologies" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,vue,ts,js,html,css,tailwind,bootstrap,py,cpp,mysql,postgres,flutter,adonis,git,github,vscode,figma,docker,postman&perline=11&theme=dark" alt="Core Skills & Technologies" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Filament_PHP-EAB308?style=flat-square&logo=laravel&logoColor=white" alt="Filament PHP" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white" alt="Ionic" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FE?style=flat-square&logo=adonisjs&logoColor=white" alt="AdonisJS" />
 </p>
 
 <details>
   <summary><b>Tech Stack Details</b></summary>
   <br/>
 
-  - **Programming Languages:** Python, JavaScript, TypeScript, C/C++, PHP
-  - **Web Development:** Laravel, React, Next.js, Vue.js, HTML5, CSS3, Tailwind CSS, Bootstrap
+  - **Programming Languages:** Python, JavaScript, TypeScript, C/C++, PHP, Dart
+  - **Web & Mobile Frameworks:** Laravel, Filament PHP, AdonisJS, React, Next.js, Vue.js, Flutter, Ionic, HTML5, CSS3, Tailwind CSS, Bootstrap
   - **Databases & Infrastructure:** MySQL, PostgreSQL, RESTful APIs, Git, GitHub, Docker, Postman
   - **UI/UX & Multimedia:** Figma, Canva, Adobe After Effects, CapCut, Adobe Lightroom
   - **IT Support & Systems:** Hardware & Software Installation, System Troubleshooting, Network Configuration
