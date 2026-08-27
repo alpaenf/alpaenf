@@ -1,163 +1,139 @@
 <div align="center">
 
-  <!-- Dynamic Wavy Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,50,100&height=220&section=header&text=Mukhammad%20Alfaen%20⚡&fontSize=42&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=MUKHAMMAD%20ALFAEN%20FADILLAH&fontSize=38&fontColor=f0f6fc&fontAlignY=45&subtext=Informatics%20Student%20%7C%20Software%20Engineer%20%7C%20AI%20%26%20Web%20Developer&subfontSize=16&subfontColor=8b949e&subfontAlignY=68" width="100%" alt="Header Banner" />
 
-  <!-- Dynamic Animated Typing Text -->
-  <a href="https://github.com/alpaenf">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2CB67D&center=true&vCenter=true&multiline=true&width=650&height=100&lines=🚀+Full-Stack+Web+%26+Software+Developer;💻+Next.js+%7C+Laravel+%7C+React+%7C+TypeScript;🤖+Building+Smart%2C+Scalable+%26+Interactive+Apps;✨+Turning+Complex+Problems+Into+Clean+Code" alt="Typing SVG" />
-  </a>
-
-  <br/>
-
-  <!-- Header Quick Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=alpaenf&style=for-the-badge&color=7f5af0&label=PROFILE+VIEWS" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/alpaenf?style=for-the-badge&logo=github&color=2cb67d&labelColor=16161a" alt="Followers" />
-    <img src="https://img.shields.io/badge/Location-Indonesia%20🇮🇩-ff8e3c?style=for-the-badge&labelColor=16161a" alt="Location" />
-    <img src="https://img.shields.io/badge/Status-Building%20the%20Future%20🚀-2cb67d?style=for-the-badge&labelColor=16161a" alt="Status" />
+    <a href="mailto:alfaenf23@gmail.com"><img src="https://img.shields.io/badge/Email-alfaenf23%40gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://linkedin.com/in/alpaenf"><img src="https://img.shields.io/badge/LinkedIn-Mukhammad%20Alfaen-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://github.com/alpaenf"><img src="https://img.shields.io/badge/GitHub-alpaenf-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <img src="https://img.shields.io/badge/Location-Tegal%2C%20Central%20Java-24292e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+    <img src="https://img.shields.io/badge/GPA-3.70%20%2F%204.00-059669?style=flat-square" alt="GPA" />
   </p>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
+<hr />
 
-## 👨‍💻 About Me
+## About Me
 
-```yaml
-name: Mukhammad Alfaen F
-role: Full Stack Web Developer & Software Enthusiast
-location: Indonesia 🇮🇩
-passions: [Web Architecture, AI Engineering, Interactive UI/UX, Open Source]
-current_focus: Building high-performance Next.js & Laravel applications
-motto: "Code is like humor. When you have to explain it, it’s bad."
-```
+Undergraduate Informatics student at **Jenderal Soedirman University** (Bachelor of Computer Science, GPA: 3.70/4.00) with a strong foundation in Software Engineering, UI/UX Design, Web Development, and Digital Solutions.
 
-- 🔭 **Current Project:** Crafting modern web applications & scalable systems.
-- 🌱 **Learning & Exploring:** AI Integrations, Microservices Architecture & Web Performance.
-- 💡 **Specialties:** Modern React/Next.js UI, Laravel APIs, Clean Code, & System Optimization.
-- ⚡ **Fun Fact:** Driven by coffee ☕, continuous learning 📚, and dark mode aesthetics 🌙.
+Experienced in developing web-based information systems, designing user-centered interfaces, and engineering AI-based platforms for healthcare and supply chain systems. Possesses strong analytical thinking, problem-solving capabilities, and organizational leadership skills to translate user requirements into practical digital solutions.
 
-<br/>
+- **Education:** Bachelor of Computer Science, Faculty of Engineering, Jenderal Soedirman University (Aug 2023 – Present)
+- **Primary Focus:** Full-Stack Web Development, AI Integration, & Digital Solutions
+- **Languages:** Indonesian (Native), Javanese (Native), English (Professional Working Proficiency)
 
-## 🛠️ Tech Arsenal & Skillset
+<hr />
+
+## Featured Spotlight Project
+
+### HEALTIVA — AI-Powered Posyandu Digital Health Platform
+> **Achievement:** 1st Place & Best Speaker at the National Scientific Paper Competition (LKTIN Avicenna 2026)
+
+HEALTIVA is an AI-powered digital healthcare platform built to modernize Posyandu services and optimize primary healthcare delivery for non-communicable diseases (NCDs).
+
+#### Key Features & Innovations:
+- **AI Disease Risk Prediction:** Predictive machine learning engine for early detection and preventive risk assessment of non-communicable diseases.
+- **Posyandu Digital Medical Records:** Streamlined electronic record management to replace manual paper logging with accurate data centralization.
+- **Preventive Healthcare Analytics:** Real-time data visualization and decision support system tailored for community health workers.
+
+**Tech Stack:** `Python` • `Machine Learning` • `Laravel` / `Next.js` • `RESTful APIs` • `Figma`
+
+<hr />
+
+## Achievements & Innovation Competitions
+
+| Project / Event | Role | Accomplishment & Summary |
+| :--- | :--- | :--- |
+| **HEALTIVA** | Lead Researcher | **1st Place & Best Speaker** – LKTIN Avicenna 2026. AI-powered digital health platform for Posyandu services, disease risk prediction, and preventive healthcare. |
+| **TumbasNa** | Chief Technology Officer (CTO) | **3rd Place** – Bank Indonesia Purwokerto Mini Hackathon 2026. AI-powered B2B food supply chain platform integrating AI Supply Matching, QRIS Escrow, WhatsApp Commerce, and Economic Intelligence Dashboard. |
+| **VITALY** | Lead Developer | **2nd Place** – Management Informatics Competition (MIC INNOVEST 2026). IoMT and AI-based health monitoring platform featuring Hybrid Intelligence architecture. |
+| **MARIS 2.0** | AI-GIS Specialist | **3rd Place** – National SDGs Scientific Paper Competition (INFEST 2026). AI-GIS-based coastal intelligence system for climate risk mitigation and blue carbon valuation. |
+
+<hr />
+
+## Professional Experience
+
+#### **IT Support Technician** — KP-SPAMS Damar Wulan
+*Feb 2026 – Present | Cilacap, Central Java*
+- Provide technical support for hardware, software, and network infrastructure to maintain daily operational reliability.
+- Install, configure, and troubleshoot computer systems and peripheral devices.
+- Perform preventive maintenance and resolve technical issues to minimize system downtime.
+- Support digital administration and system optimization for organizational operations.
+
+#### **Retail Sales Associate** — UD Sembilan Karya
+*Dec 2024 – Present | Indramayu, West Java*
+- Manage retail sales operations and build relationships with retail and business customers.
+- Market products to individual and business clients, expanding customer network to 5+ business partners.
+- Contributed to business growth, achieving approximately IDR 20 million in sales during a peak sales period.
+
+#### **IT Support Technician (Intern)** — Ministry of Home Affairs of Indonesia
+*July 2025 – August 2025 | Jakarta, Indonesia*
+- Assisted in hardware and software installation, configuration, and maintenance for government office operations.
+- Diagnosed and resolved technical issues to ensure uninterrupted system performance.
+- Supported IT administration and daily technical services for internal users.
+
+<hr />
+
+## Leadership & Organizational Experience
+
+- **Head of Creation & Business Division** — Himpunan Mahasiswa Informatika UNSOED (*Feb 2025 – Jan 2026*)
+  - Led a 7-member division responsible for organizational business development, sponsorship acquisition, and fundraising initiatives.
+  - Directed strategic programs (Infinity Wear, Sponsorship, CEMARA, PKM Socialization), driving ~23% profit growth for CEMARA business operations.
+- **Staff of Creation & Business Division** — Himpunan Mahasiswa Informatika UNSOED (*Mar 2024 – Dec 2024*)
+  - Managed merchandise procurement with total project turnover of ~IDR 46.9 million.
+  - Awarded **Best Staff of the Month** HMIF UNSOED (September 2025).
+- **Head of Logistics & Equipment Division** — Soedirman Technophoria / S-Tech (*2024*)
+  - Led a 10-member logistics team overseeing procurement, equipment distribution, and operational readiness for event series.
+- **Group Mentor Staff** — Soedirman Student Summit & Informatics Orientation (*Apr 2024 – Jan 2025*)
+  - Guided and mentored incoming students during university and department orientation programs.
+
+<hr />
+
+## Skills & Technologies
+
+#### **Technical Skills:**
+- **Programming Languages:** Python, JavaScript, C/C++
+- **Web Development:** HTML, CSS, Laravel, React, Next.js, Vue.js
+- **UI/UX Design:** Figma, Canva
+- **IT Support & Systems:** Hardware & Software Installation, System Troubleshooting, Network Configuration
+- **Tools & Multimedia:** Git, GitHub, Microsoft Office, Google Workspace, Adobe After Effects, CapCut, KineMaster, Adobe Lightroom
+
+#### **Soft Skills:**
+Leadership, Team Management, Professional Communication, Public Speaking, Negotiation, Complex Problem Solving, Time Management, Team Collaboration.
+
+<hr />
+
+## GitHub Statistics & Activity
 
 <div align="center">
 
-  ### 🌐 Frontend Development
-  <p>
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
-  </p>
-
-  ### ⚙️ Backend & Database
-  <p>
-    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,express,python,postgres,mysql,mongodb&theme=dark" alt="Backend Tech Stack" />
-  </p>
-
-  ### 🧰 Tools & DevOps
-  <p>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,figma,vercel&theme=dark" alt="Tools & DevOps" />
-  </p>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-
-## 📊 GitHub Analytics & Achievements
-
-<div align="center">
-
-  <!-- GitHub Trophy -->
-  <a href="https://github.com/alpaenf">
-    <img src="https://github-profile-trophy.vercel.app/?username=alpaenf&theme=onedark&column=7&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" />
-  </a>
-
-  <br/><br/>
-
-  <!-- Stats Grid -->
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=alpaenf&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10&count_private=true" alt="GitHub Stats" width="400" />
+        <img src="https://github-readme-stats.vercel.app/api?username=alpaenf&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpaenf&layout=compact&theme=tokyonight&hide_border=false&border_radius=10" alt="Top Languages" width="350" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpaenf&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="350" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <!-- Streak Stats -->
-  <a href="https://github.com/alpaenf">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alpaenf&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" width="760" />
-  </a>
+  <img src="https://raw.githubusercontent.com/alpaenf/alpaenf/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
 
 </div>
 
-<br/>
-
-## 🐍 GitHub Contribution Snake Animation
+<hr />
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/alpaenf/alpaenf/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+  <p><b>Mukhammad Alfaen Fadillah</b> — Informatics Student at Jenderal Soedirman University</p>
+  <p>
+    <a href="mailto:alfaenf23@gmail.com">alfaenf23@gmail.com</a> • 
+    <a href="https://linkedin.com/in/alpaenf">LinkedIn</a> • 
+    <a href="https://github.com/alpaenf">GitHub Profile</a>
+  </p>
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Neon Divider" />
-
-## ⚡ Interactive Command Line & Vibes
-
-<details>
-  <summary><b>🔍 Click to run `fetch --user alfaen`</b></summary>
-  <br/>
-
-```bash
-$ alfaen --status
-----------------------------------------
-[OS]: Developer Life v2026.08
-[SHELL]: zsh / powershell
-[IDE]: Visual Studio Code / Cursor
-[THEME]: Dark + Neon Purple/Cyan
-[STATUS]: 🟢 Open to Collaborations & Projects
-----------------------------------------
-```
-</details>
-
-<details>
-  <summary><b>💡 Daily Developer Quote</b></summary>
-  <br/>
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
-  </div>
-</details>
-
-<br/>
-
-## 📬 Connect With Me
-
-<div align="center">
-  
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://alfaen.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25,50,100&height=100&section=footer" width="100%" alt="Footer Banner" />
-  
-  <sub><i>Designed with ❤️ and ✨ dynamic magic by Mukhammad Alfaen F</i></sub>
-</div>
