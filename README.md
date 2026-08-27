@@ -8,6 +8,7 @@
     <a href="https://github.com/alpaenf"><img src="https://img.shields.io/badge/GitHub-alpaenf-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <img src="https://img.shields.io/badge/Location-Tegal%2C%20Central%20Java-24292e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
     <img src="https://img.shields.io/badge/GPA-3.70%20%2F%204.00-059669?style=flat-square" alt="GPA" />
+    <img src="https://komarev.com/ghpvc/?username=alpaenf&color=0078d4&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
   </p>
 
 </div>
